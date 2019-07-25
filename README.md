@@ -1,2 +1,2 @@
 # medium-docs
-Jupyter notebook file for my Medium blog
+Files for my Medium blog
